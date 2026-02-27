@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fullstack_ecomerce/static/css/main.5765e84d.css",
+    "main.js": "/fullstack_ecomerce/static/js/main.a8518d71.js",
+    "index.html": "/fullstack_ecomerce/index.html",
+    "main.5765e84d.css.map": "/fullstack_ecomerce/static/css/main.5765e84d.css.map",
+    "main.a8518d71.js.map": "/fullstack_ecomerce/static/js/main.a8518d71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5765e84d.css",
+    "static/js/main.a8518d71.js"
+  ]
+}
